@@ -1,4 +1,5 @@
 ## Hi there 👋
+- Miguel
 - Class of 2026'
 - Chicago, IL
 - 6 Computer Science Classes
