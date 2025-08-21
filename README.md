@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- Class of 2026'
+- Chicago, IL
+- 6 Computer Science Classes
 <!--
 **miguelm2026/miguelm2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
