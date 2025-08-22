@@ -3,6 +3,8 @@
 - Class of 2026'
 - Chicago, IL
 - 6 Computer Science Classes
+- I like Computer Science
+- I enjoy watching football
 <!--
 **miguelm2026/miguelm2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
